@@ -1,0 +1,20 @@
+body {
+    min-height: 100vh;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    border-left: 1px solid #333;
+    border-right: 1px solid #333;
+}
+
+/*
+a{
+    color:#fff;
+} */
+ tr, th, td, caption{
+    border: 1px solid #000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 4px;
+    padding: 0.5rem;
+    border-collapse: separate;
+}
